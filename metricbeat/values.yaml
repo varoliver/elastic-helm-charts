@@ -306,7 +306,7 @@ nameOverride: ""
 fullnameOverride: ""
 
 kube_state_metrics:
-  enabled: true
+  enabled: false
   # host is used only when kube_state_metrics.enabled: false
   host: ""
 
